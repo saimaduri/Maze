@@ -1,10 +1,10 @@
 # 3D Maze Game #
 
-![2D Maze](docs/images/2D%20Maze%20Start.jpg "2D Maze")
-*2D Maze*
-
 ![3D Maze](docs/images/3D%20Maze%20Start.jpg "3D Maze")
 *3D Maze*
+
+![2D Maze](docs/images/2D%20Maze%20Start.jpg "2D Maze")
+*2D Maze*
 
 ## Description ##
 A first-person maze game made with Java Swing.
